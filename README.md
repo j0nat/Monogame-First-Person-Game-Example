@@ -1,6 +1,4 @@
-### REQUIREMENTS ###
-Shader taken from
-https://deepworldgame.wordpress.com/2016/09/24/monogame-shaders-part-i-ambient-point-lights/# Monogame First Person Game Example
+# Monogame First Person Game Example
 
 ![Preview1](./Media/1.png)
 ![Preview2](./Media/2.png)
